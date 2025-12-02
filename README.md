@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isaias Lucena
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web development
 - 🌱 I’m currently loving TypeScript
 - 💞️ I’m looking to collaborate on nice projects
 - 📫 Reach me at isaias@fullstacklabs.co
